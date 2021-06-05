@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/actionhelper_0.9.9.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13_2/Dynatrace-AppMon-Extended-EMail-Action-Plugin-0.10.13/lib/mail-1.4.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
